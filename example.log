@@ -1,0 +1,83 @@
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:80
+ * Running on http://192.168.10.131:80
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:80
+ * Running on http://192.168.10.131:80
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8000
+ * Running on http://192.168.10.131:8000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+2022-09-13 04:09:40,762  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2022-09-13 04:09:40,767  * Running on http://192.168.10.131:80/ (Press CTRL+C to quit)
+2022-09-13 04:09:44,942  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2022-09-13 04:09:44,942  * Running on http://192.168.10.131:80/ (Press CTRL+C to quit)
+2022-09-13 04:09:57,250  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2022-09-13 04:09:57,251  * Running on http://192.168.10.131:80/ (Press CTRL+C to quit)
+2022-09-13 04:10:18,361  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2022-09-13 04:10:18,361  * Running on http://192.168.10.131:80/ (Press CTRL+C to quit)
+2022-09-13 04:10:20,103 192.168.10.131 - - [13/Sep/2022 04:10:20] "GET / HTTP/1.1" 200 -
+2022-09-13 04:10:22,895 192.168.10.131 - - [13/Sep/2022 04:10:22] "GET / HTTP/1.1" 200 -
+2022-09-13 04:10:26,653 192.168.10.131 - - [13/Sep/2022 04:10:26] "GET /plantsearch/gds HTTP/1.1" 200 -
+2022-09-13 04:11:06,954 192.168.10.131 - - [13/Sep/2022 04:11:06] "GET / HTTP/1.1" 200 -
+2022-09-13 04:11:12,470 192.168.10.131 - - [13/Sep/2022 04:11:12] "GET /plantsearch/print HTTP/1.1" 200 -
+2022-09-13 04:11:54,383  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2022-09-13 04:11:54,383  * Running on http://192.168.10.131:80/ (Press CTRL+C to quit)
+2022-09-13 04:11:58,412 192.168.10.131 - - [13/Sep/2022 04:11:58] "GET /plantsearch/print HTTP/1.1" 200 -
+2022-09-13 04:13:47,109 192.168.10.131 - - [13/Sep/2022 04:13:47] "GET / HTTP/1.1" 200 -
+2022-09-13 04:14:45,494 192.168.10.131 - - [13/Sep/2022 04:14:45] "GET / HTTP/1.1" 200 -
+2022-09-13 04:21:05,357  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2022-09-13 04:21:05,357  * Running on http://192.168.10.131:80/ (Press CTRL+C to quit)
+2022-09-13 04:21:34,432 192.168.10.120 - - [13/Sep/2022 04:21:34] "GET / HTTP/1.1" 200 -
+2022-09-13 04:21:34,512 192.168.10.120 - - [13/Sep/2022 04:21:34] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2022-09-13 04:22:02,313 192.168.10.120 - - [13/Sep/2022 04:22:02] "GET / HTTP/1.1" 200 -
+2022-09-13 04:22:04,615 192.168.10.120 - - [13/Sep/2022 04:22:04] "GET / HTTP/1.1" 200 -
+2022-09-13 04:22:20,120 192.168.10.120 - - [13/Sep/2022 04:22:20] "GET / HTTP/1.1" 200 -
+2022-09-13 04:22:22,138 192.168.10.120 - - [13/Sep/2022 04:22:22] "GET / HTTP/1.1" 200 -
+2022-09-13 04:22:57,840  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2022-09-13 04:22:57,842  * Running on http://192.168.10.131:80/ (Press CTRL+C to quit)
+2022-09-13 04:23:00,116 192.168.10.120 - - [13/Sep/2022 04:23:00] "GET / HTTP/1.1" 200 -
+2022-09-13 04:23:07,756 192.168.10.120 - - [13/Sep/2022 04:23:07] "GET / HTTP/1.1" 200 -
+2022-09-13 04:23:37,769 192.168.10.120 - - [13/Sep/2022 04:23:37] "GET /plantsearch/liil HTTP/1.1" 200 -
+2022-09-13 04:23:39,467 192.168.10.120 - - [13/Sep/2022 04:23:39] "GET / HTTP/1.1" 200 -
+2022-09-13 04:23:42,215 192.168.10.120 - - [13/Sep/2022 04:23:42] "GET /plantsearch/lil HTTP/1.1" 200 -
+2022-09-13 04:25:38,634  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2022-09-13 04:25:38,634  * Running on http://192.168.10.131:80/ (Press CTRL+C to quit)
+2022-09-13 04:25:43,194 192.168.10.120 - - [13/Sep/2022 04:25:43] "GET /plantsearch/lil HTTP/1.1" 200 -
+2022-09-13 04:28:59,862 192.168.10.120 - - [13/Sep/2022 04:28:59] "GET /termsandconditions HTTP/1.1" 200 -
+2022-09-13 04:29:33,778  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2022-09-13 04:29:33,778  * Running on http://192.168.10.131:80/ (Press CTRL+C to quit)
+2022-09-13 04:29:36,706 192.168.10.120 - - [13/Sep/2022 04:29:36] "GET /termsandconditions HTTP/1.1" 200 -
+2022-09-13 04:30:02,485  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2022-09-13 04:30:02,485  * Running on http://192.168.10.131:80/ (Press CTRL+C to quit)
+2022-09-13 04:30:06,549 192.168.10.120 - - [13/Sep/2022 04:30:06] "GET /termsandconditions HTTP/1.1" 200 -
+2022-09-13 04:30:08,214 192.168.10.120 - - [13/Sep/2022 04:30:08] "GET /termsandconditions HTTP/1.1" 200 -
+2022-09-13 04:32:11,757  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2022-09-13 04:32:11,757  * Running on http://192.168.10.131:80/ (Press CTRL+C to quit)
+2022-09-13 04:32:15,298 192.168.10.120 - - [13/Sep/2022 04:32:15] "GET /termsandconditions HTTP/1.1" 200 -
+2022-09-14 01:27:21,063  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2022-09-14 01:27:21,064  * Running on http://192.168.10.131:80/ (Press CTRL+C to quit)
+2022-09-14 01:27:34,866 192.168.10.120 - - [14/Sep/2022 01:27:34] "GET / HTTP/1.1" 200 -
+2022-09-14 01:27:34,958 192.168.10.120 - - [14/Sep/2022 01:27:34] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2022-09-14 01:27:47,557 192.168.10.120 - - [14/Sep/2022 01:27:47] "GET /plantsearch/little HTTP/1.1" 200 -
+2022-09-14 01:33:28,420  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2022-09-14 01:33:28,421  * Running on http://192.168.10.131:80/ (Press CTRL+C to quit)
+2022-09-14 01:33:35,652 192.168.10.120 - - [14/Sep/2022 01:33:35] "GET /plantsearch/little HTTP/1.1" 200 -
